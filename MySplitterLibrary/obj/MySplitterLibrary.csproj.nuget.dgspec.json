@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Avi\\Desktop\\SplitTheBill\\MySplitterLibrary\\MySplitterLibrary.csproj": {}
+    "C:\\Users\\Avi\\Desktop\\a\\SplitTheBill\\MySplitterLibrary\\MySplitterLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Avi\\Desktop\\SplitTheBill\\MySplitterLibrary\\MySplitterLibrary.csproj": {
+    "C:\\Users\\Avi\\Desktop\\a\\SplitTheBill\\MySplitterLibrary\\MySplitterLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Avi\\Desktop\\SplitTheBill\\MySplitterLibrary\\MySplitterLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Avi\\Desktop\\a\\SplitTheBill\\MySplitterLibrary\\MySplitterLibrary.csproj",
         "projectName": "MySplitterLibrary",
-        "projectPath": "C:\\Users\\Avi\\Desktop\\SplitTheBill\\MySplitterLibrary\\MySplitterLibrary.csproj",
+        "projectPath": "C:\\Users\\Avi\\Desktop\\a\\SplitTheBill\\MySplitterLibrary\\MySplitterLibrary.csproj",
         "packagesPath": "C:\\Users\\Avi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Avi\\Desktop\\SplitTheBill\\MySplitterLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Avi\\Desktop\\a\\SplitTheBill\\MySplitterLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Avi\\AppData\\Roaming\\NuGet\\NuGet.Config"
